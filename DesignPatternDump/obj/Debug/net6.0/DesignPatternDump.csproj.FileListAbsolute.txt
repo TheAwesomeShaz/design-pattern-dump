@@ -1,0 +1,15 @@
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\bin\Debug\net6.0\DesignPatternDump.exe
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\bin\Debug\net6.0\DesignPatternDump.deps.json
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\bin\Debug\net6.0\DesignPatternDump.runtimeconfig.json
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\bin\Debug\net6.0\DesignPatternDump.dll
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\bin\Debug\net6.0\DesignPatternDump.pdb
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\obj\Debug\net6.0\DesignPatternDump.csproj.AssemblyReference.cache
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\obj\Debug\net6.0\DesignPatternDump.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\obj\Debug\net6.0\DesignPatternDump.AssemblyInfoInputs.cache
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\obj\Debug\net6.0\DesignPatternDump.AssemblyInfo.cs
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\obj\Debug\net6.0\DesignPatternDump.csproj.CoreCompileInputs.cache
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\obj\Debug\net6.0\DesignPatternDump.dll
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\obj\Debug\net6.0\refint\DesignPatternDump.dll
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\obj\Debug\net6.0\DesignPatternDump.pdb
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\obj\Debug\net6.0\DesignPatternDump.genruntimeconfig.cache
+D:\GitHub Client\CodeArchitectureNonUnityStuff\design-pattern-dump\DesignPatternDump\obj\Debug\net6.0\ref\DesignPatternDump.dll
