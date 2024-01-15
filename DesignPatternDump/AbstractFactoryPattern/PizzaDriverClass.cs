@@ -1,14 +1,14 @@
-﻿using DesignPatternDump.FactoryPattern;
+﻿namespace DesignPatternDump.AbstractFactoryPattern;
 
 public class PizzaDriverClass
 {
     public static void Main(String[] args)
     {
         PizzaStore nyStore = new NYPizzaStore();
-        PizzaStore ohioStore = new OhioPizzaStore();
-        Pizza pizza = nyStore.OrderPizza("cheese");
+        PizzaStore ohioStore = new CGPizzaStore();
+        Pizza pizza = nyStore.OrderPizza("Cheese");
         Console.WriteLine("SussyBOi ordered a " +pizza.GetName() + "\n");
-        pizza = ohioStore.OrderPizza("cheese");
+        pizza = ohioStore.OrderPizza("Cheese");
         Console.WriteLine("Bawlz ordered a " + pizza.GetName() + "\n");
     }
 }
