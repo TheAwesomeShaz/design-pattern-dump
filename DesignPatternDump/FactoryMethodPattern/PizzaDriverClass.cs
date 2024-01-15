@@ -1,6 +1,6 @@
 ﻿namespace DesignPatternDump.FactoryPattern;
 
-public class PizzaDriverClass
+public class FactoryMethodDriverClass
 {
     //public static void Main(String[] args)
     //{
